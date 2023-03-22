@@ -9,8 +9,8 @@
 - [X] [Dia 03: Git & GitHub - Entendendo os comandos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/1.3)    
 ##### 2. Introdução à HTML & CSS 
 - [X] [Dia 01: HTML & CSS - Estruturas de página](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.1)  
-- [ ] [Dia 02: HTML & CSS - Primeiros passos em CSS](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.2)  
-- [ ] [Dia 03: HTML & CSS - Seletores e posicionamento](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.3)
+- [x] [Dia 02: HTML & CSS - Primeiros passos em CSS](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.2)  
+- [x] [Dia 03: HTML & CSS - Seletores e posicionamento](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.3)
 - [ ] [Dia 04: HTML Semântico](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.4)
 - [ ] [Dia 05: Projeto - Lessons Learned](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.5)   
 
