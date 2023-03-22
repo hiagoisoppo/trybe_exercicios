@@ -1,5 +1,14 @@
 # EXERCICIOS TRYBE
-É um repositório para organização dos exercicios da formação Trybe, segue exemplo da organização: 
+###É um repositório para organização dos exercicios da formação Trybe.
 
-Nome do Módulo Atual  
-1. Seção Atual  |  Dia 01: Titulo da Aula 
+:hourglass_flowing_sand: Módulo de Fundamentos  
+- [X] 1. Unix, Shell e Git  |  Dia 01: Unix & Shell 
+- [X] 1. Unix, Shell e Git  |  Dia 02: O que é e para que serve 
+- [X] 1. Unix, Shell e Git  |  Dia 03: Git & GitHub - Entendendo os comandos    
+
+
+
+
+
+
+:white_check_mark:
