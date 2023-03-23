@@ -1,2 +1,2 @@
 # Módulo de Fundamentos   
-2. Introdução á HTML & CSS  |  Dia 01: HTML & CSS - Estruturas de página
+2. Introdução á HTML & CSS  |  Dia 02: HTML & CSS - Primeiros passos em CSS
