@@ -1,3 +1,3 @@
 # Módulo de Fundamentos   
-### 2. Introdução á HTML & CSS  |  Dia 03: HTML & CSS - Seletores e posicionamento
+### 3. Introdução à JavaScript  |  Dia 01: JavaScript - Primeiros passos
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
