@@ -1,3 +1,3 @@
-# Módulo de Fundamentos   
-### 3. Introdução à JavaScript  |  Dia 01: JavaScript - Primeiros passos
+# Academia de Lógica
+### Dia 2.2 = Site do Zoológico
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
