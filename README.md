@@ -15,12 +15,12 @@
 - [x] [Dia 05: Projeto - Lessons Learned](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/2.5)   
 
 ##### 3. Introdução à JavaScript
-- [ ] [Dia 01: JavaScript - Primeiros passos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.1)
-- [ ] [Dia 02: JavaScript - Array e loop For](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.2)   
-- [ ] [Dia 03: JavaScript - Funções](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.3)    
-- [ ] [Dia 04: JavaScript - Objetos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.4)    
-- [ ] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.5)
-- [ ] [Dia 06: Projeto - Playground Functions](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.6)
+- [x] [Dia 01: JavaScript - Primeiros passos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.1)
+- [x] [Dia 02: JavaScript - Array e loop For](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.2)   
+- [x] [Dia 03: JavaScript - Funções](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.3)    
+- [x] [Dia 04: JavaScript - Objetos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.4)    
+- [x] [Dia 05: JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.5)
+- [x] [Dia 06: Projeto - Playground Functions](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.6)
 
 ##### 4. JavaScript: DOM, Eventos e WebStorage
 - [ ] [Dia 01: JavaScript - DOM e seletores](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.1)
