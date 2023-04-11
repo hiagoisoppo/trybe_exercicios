@@ -2,7 +2,7 @@ document.getElementById('where-are-you').parentElement.style.backgroundColor = '
 
 document.getElementById('first-child-of-child').innerHTML = 'FirstChildOfChild direct';
 
-document.getElementById('parent').firstChild.textContent = 'FirstChild from Parent';
+document.getElementById('parent').firstElementChild.textContent = 'FirstChild from Parent';
 
 document.getElementById('where-are-you').previousElementSibling.textContent = 'FirstChild from WhereAreYou';
 
