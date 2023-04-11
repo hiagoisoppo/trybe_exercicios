@@ -1,6 +1,17 @@
-const paragraph = document.getElementById("paragraph");
-      paragraph.style.color = "red";
+// // Arquivo script.js
 
-document.getElementsByClassName('p')[1].style.color = 'blue';
+// // Cria um novo elemento <li> e o armazena na variável newElement
+// let newElement = document.createElement('li');
 
-document.getElementsByTagName('h4')[0].style.color = 'green';
+// // Acessa o novo elemento armazenado em newElement e altera seu conteúdo
+// newElement.innerHTML = 'Um texto para o novo elemento';
+
+// // Recupera o elemento que será o pai de newElement e o armazena na variável parent
+// let parent = document.getElementById('parent');
+
+// // Insere o novo elemento como filho de parent
+// parent.appendChild(newElement);
+
+
+document.getElementById('parent').appendChild(document.createElement('li'));
+document.getElementsByTagName('li')[0].textContent = 'TESTE';

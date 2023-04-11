@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <header>
-      <h2 id="page-title">Título</h2>
-      <p id="paragraph">Dê uma cor para este parágrafo!</p>
-      <h4 id="subtitle">Subtítulo</h4>
-      <p id="second-paragraph">Segundo parágrafo!</p>
-    </header>
+    <main id="parent-of-parent">
+      <section id="parent">
+        <section id="first-child"></section>
+        <section id="where-are-you">
+          <section id="first-child-of-child"></section>
+        </section>
+        Attention!
+        <section id="third-child"></section>
+        <section id="fourth-and-last-child"></section>
+      </section>
+    </main>
     <script src="script.js"> </script>
   </body>
 </html>

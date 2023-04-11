@@ -1,8 +1,16 @@
-const paragraph = document.getElementById("paragraph");
-paragraph.style.color = "blue";
+document.getElementById('where-are-you').parentElement.style.backgroundColor = 'green';
 
-document.getElementById('page-title').innerHTML = 'O JOGO DA IMITAÇÃO';
+document.getElementById('first-child-of-child').innerHTML = 'FirstChildOfChild direct';
 
-document.getElementById('second-paragraph').innerText = "In 1939, newly created British intelligence agency MI6 recruits Cambridge mathematics alumnus Alan Turing (Benedict Cumberbatch) to crack Nazi codes, including Enigma -- which cryptanalysts had thought unbreakable. Turing's team, including Joan Clarke (Keira Knightley), analyze Enigma messages while he builds a machine to decipher them. Turing and team finally succeed and become heroes, but in 1952, the quiet genius encounters disgrace when authorities reveal he is gay and send him to prison.";
+document.getElementById('parent').firstChild.textContent = 'FirstChild from Parent';
 
-document.getElementById('subtitle').innerText = 'HELL noooo ITS A DOM';
+document.getElementById('where-are-you').previousElementSibling.textContent = 'FirstChild from WhereAreYou';
+
+document.getElementById('where-are-you').nextSibling.textContent = 'Attention from WhereAreYou';
+
+document.getElementById('where-are-you').previousElementSibling.textContent = 'ThirdChild from WhereAreYou';
+
+
+document.getElementById('parent').lastChild.previousElementSibling.textContent = 'ThirdChild from Parent';
+
+document.getElementById('parent').lastChild.textContent = 'LastChild from Parent';
