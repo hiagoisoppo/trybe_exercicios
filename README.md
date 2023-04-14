@@ -23,20 +23,20 @@
 - [x] [Dia 06: Projeto - Playground Functions](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/3.6)
 
 ##### 4. JavaScript: DOM, Eventos e WebStorage
-- [ ] [Dia 01: JavaScript - DOM e seletores](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.1)
-- [ ] [Dia 02: JavaScript - Trabalhando com elementos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.2)    
-- [ ] [Dia 03: JavaScript - Eventos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.3)  
-- [ ] [Dia 04: JavaScript - Web Storage](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.4)  
-- [ ] [Dia 05: Projeto - Arte com Pixels](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.5) 
-- [ ] [Dia 06: Projetos Bônus](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.6)    
+- [x] [Dia 01: JavaScript - DOM e seletores](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.1)
+- [x] [Dia 02: JavaScript - Trabalhando com elementos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.2)    
+- [x] [Dia 03: JavaScript - Eventos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.3)  
+- [x] [Dia 04: JavaScript - Web Storage](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.4)  
+- [x] [Dia 05: Projeto - Arte com Pixels](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.5) 
+- [x] [Dia 06: Projetos Bônus](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/4.6)    
 
 ##### 5. HTML e CSS: Forms, Flexbox e Responsivo
-- [ ] [Dia 01: HTML & CSS - Forms](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.1)  
-- [ ] [Dia 02: Bibliotecas JavaScript e Frameworks CSS](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.2) 
-- [ ] [Dia 03: CSS Flexbox - Parte 1](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.3)   
-- [ ] [Dia 04: CSS Flexbox - Parte 2](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.4)   
-- [ ] [Dia 05: CSS Responsivo - Mobile First](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.5)   
-- [ ] [Dia 06: Projeto - Trybewarts](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.6)    
+- [x] [Dia 01: HTML & CSS - Forms](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.1)  
+- [x] [Dia 02: Bibliotecas JavaScript e Frameworks CSS](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.2) 
+- [x] [Dia 03: CSS Flexbox - Parte 1](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.3)   
+- [x] [Dia 04: CSS Flexbox - Parte 2](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.4)   
+- [x] [Dia 05: CSS Responsivo - Mobile First](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.5)   
+- [x] [Dia 06: Projeto - Trybewarts](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/5.6)    
 
 ##### 6. Introdução à JavaScript ES6 e Testes Unitários
 - [ ] [Dia 01: Fluxo de exceções e manipulação de objetos](https://github.com/hiagoisoppo/trybe_exercicios/tree/fundamentos/6.1)   
