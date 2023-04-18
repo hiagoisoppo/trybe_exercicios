@@ -1,3 +1,3 @@
 # Módulo de Fundamentos   
-### 4. JavaScript: DOM, Eventos e Web Storage  |  Dia 04: JavaScript - Web Storage - Eventos
+### 5. HTML e CSS: Forms, Flexbox e Responsivo  |  Dia 01: HTML & CSS - Forms
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
