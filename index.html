@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hotel Trybe</title>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header class="header-trybe">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3q0v72AJA-p9V_oPst_65uEG9dr1WxKN-ZYp_5gE&s"
+            alt="Logo da Trybe">
+        <h1>Hotel Trybe</h1>
+    </header>
+    <main>
+        <form action="">
+            <div class="hotel-form">
+                <h1>Reserve seu quarto!</h1>
+            </div>
+            <div class="hotel-form">
+                <label for="inputCheckin">
+                    Check-in:
+                    <input id="inputCheckin" type="date" required>
+                </label>
+                <label for="inputCheckout">
+                    Check-in:
+                    <input id="inputCheckout" type="date" required>
+                </label>
+            </div>
+            <div class="hotel-form" id="bedrooms">
+                <label for="">Quartos:</label>
+                <div>
+                    <label for="bedroomComum">
+                        <input id="bedroomComum" class="bedroom" type="radio" name="bedroom" value="cm" checked>Comum
+                    </label>
+                </div>
+                <div>
+                    <label for="bedroomClub">
+                        <input id="bedroomClub" class="bedroom" type="radio" name="bedroom" value="cl">Club
+                    </label>
+                </div>
+                <div>
+                    <label for="bedroomLuxo">
+                        <input id="bedroomLuxo" class="bedroom" type="radio" name="bedroom" value="lx">Luxo
+                    </label>
+                </div>
+            </div>
+            <div class="hotel-form">
+                <label for="nPessoas">Pessoas:</label>
+                <select classe="nPessoas" name="nPessoas" id="nPessoas" required>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </div>
+            <div class="hotel-form">
+                <textarea classe="obs" name="obs" id="obs" cols="30" rows="10" placeholder="Observação"></textarea>
+            </div>
+            <div class="hotel-form">
+                <button id="submit-btn" type="submit">Reservar</button>
+            </div>
+            <div class="list-section">
+                <h1>Lista de reservas<h1>
+                <ol></ol>
+                <button type="reset" id="clear-btn">Limpar</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
