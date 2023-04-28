@@ -1,3 +1,3 @@
 # Módulo de Fundamentos   
-### 5. HTML e CSS: Forms, Flexbox e Responsivo  |  Dia 05: CSS Responsivo - Mobile First
+### 6. Introdução à JavaScript ES6 e Testes Unitários, Flexbox e Responsivo  |  Dia 01: Fluxo de exceções e manipulação de objetos
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
