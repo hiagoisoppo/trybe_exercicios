@@ -1,3 +1,3 @@
-# Módulo de Fundamentos   
-### 7. Higher Order Functions do JavaScript ES6  |  Dia 03: Higher Order Functions - filter e reduce
+# Módulo: Front-end  
+### 1. Introdução ao Frontend e JavaScript assíncrono  |  Dia 01: Ambiente de desenvolvimento
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
