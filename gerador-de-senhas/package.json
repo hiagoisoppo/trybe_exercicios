@@ -4,13 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nanoid": "^4.0.2"
+    "@trybe/eslint-config-frontend": "^1.11.2",
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.2",
+    "tururu": "^1.2.0",
+    "vite": "^4.3.8"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
 }
