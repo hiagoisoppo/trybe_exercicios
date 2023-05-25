@@ -1,0 +1,19 @@
+{
+  "name": "cep-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.8"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.7.5"
+  }
+}

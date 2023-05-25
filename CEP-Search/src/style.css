@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+main {
+  background-color: #232723;
+  color: whitesmoke;
+  padding:30px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+main h1 {
+  margin-bottom: 15px;
+}
+
+form {
+  width: 100%;
+}
+
+form input, form button {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+form button {
+  background-color: #a2e046;
+  font-weight: bold;
+  transition: all 250ms;
+}
+
+form button:hover {
+  filter: brightness(80%);
+  cursor: pointer;
+}
+
+article {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+.swal2-popup {
+  background: #232723;
+  border-radius: 10px;
+  width: 300px;
+  color: whitesmoke;
+  
+}
+
+.swal2-styled.swal2-confirm {
+  background-color: #a2e046;
+  border-radius: 10px;
+  border: none;
+  width: 80px;
+  text-align: center;
+  color: #fff;
+
+  transition: all 250ms;
+}
+
+.swal2-styled.swal2-confirm:hover {
+  background-image: unset;
+  filter: brightness(95%);
+}
+
+.swal2-styled.swal2-confirm:focus {
+  box-shadow: unset ;
+}
+
+.swal2-container {
+  backdrop-filter: blur(4px);
+}
