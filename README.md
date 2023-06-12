@@ -1,3 +1,3 @@
 # Módulo: Front-end  
-### 1. Introdução ao React  |  Dia 03: Avançando em componentes
+### 3. Aprofundando no React  |  Dia 01: React Router
 #### [Voltar ao sumário!](https://github.com/hiagoisoppo/trybe_exercicios/tree/main)
